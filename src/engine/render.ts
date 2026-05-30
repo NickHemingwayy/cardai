@@ -1,1 +1,0 @@
-// renderPage(doc: PageDocument) → string
